@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5B05D332-B197-4725-8B04-EFFA6193C99D}</ProjectGuid>
+    <ProjectGuid>{5220093E-4948-4E07-B528-9E341FA3B0CE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>電卓</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
